@@ -1,0 +1,15 @@
+Sometimes there will be "CAPTCHA" while logging into any webpages/portals these are checking points
+kept to verify that a human being is logging in not a robot and the selenium webdriver is a robot
+performing automation hence the test will will fail, it should fail. So we shall not bypass this step
+as part of the automation instead we shall have a build of the application which doesn't have the
+CAPTCHA option
+
+RUN PY.TEST FROM PROJECT ROOT LEVEL SO THE CONFTEST CAN BE FOUND AND USED
+when the conftest need to be implemented or if the test class need to be run using fixtures the conftest should be
+defined in the tests folder, not inside any page object or at the level of test class.
+While running any conftest method from the terminal the pwd should be at the framework/project level not inside any
+subfolder because the conftest is defined downwards in the tests folder
+--"py.test -v -s tests/login/login_test.py --browser Chrome"--
+(You are inside tests/login/, but conftest.py is in tests/.
+Pytest doesn’t go downwards to find conftest, it only goes upwards.
+So from tests/login/, pytest cannot see the tests/conftest.py.)

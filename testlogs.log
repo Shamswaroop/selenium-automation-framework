@@ -1,0 +1,36 @@
+10/20/2025 20:35:58 PM- Util- INFO: Actual Text From Application Web UI --> :: Login 
+10/20/2025 20:35:58 PM- Util- INFO: Expected Text From Application Web UI --> :: log10/20/2025 20:35:58 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL:: Title verification 
+10/20/2025 20:35:58 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL:: Logo verification 
+10/20/2025 20:35:58 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL:: Login Verification 
+10/20/2025 20:35:58 PM- TestStatus- INFO: test_onlyPassword TEST PASSED 
+10/20/2025 20:36:07 PM- TestStatus- INFO: ### VERIFICATION SUCCESSFUL:: Checking valid login 
+10/20/2025 20:36:07 PM- TestStatus- INFO: test_ValidLogin TEST PASSED 
+nt with the locator //input[@placeholder ='Email Address'] and locator type xpath 
+10/20/2025 20:35:50 PM- login_Page- INFO: Element found with locator: password and locator type: name 
+10/20/2025 20:35:50 PM- login_Page- INFO: Data is passed to the element with the locator password and locator type name 
+10/20/2025 20:35:50 PM- login_Page- INFO: Element found with locator: login and locator type: id 
+10/20/2025 20:35:50 PM- login_Page- INFO: element is clicked with the locator login and locator type id 
+10/20/2025 20:35:53 PM- login_Page- INFO: element is present 
+10/20/2025 20:35:53 PM- login_Page- INFO: Element found with locator: //a[text() = 'Sign In'] and locator type: xpath 
+10/20/2025 20:35:54 PM- login_Page- INFO: element is clicked with the locator //a[text() = 'Sign In'] and locator type xpath 
+10/20/2025 20:35:54 PM- login_Page- INFO: Element found with locator: //input[@placeholder ='Email Address'] and locator type: xpath 
+10/20/2025 20:35:54 PM- login_Page- INFO: Element found with locator: password and locator type: name 
+10/20/2025 20:35:54 PM- login_Page- INFO: Element found with locator: //input[@placeholder ='Email Address'] and locator type: xpath 
+10/20/2025 20:35:54 PM- login_Page- INFO: Data is passed to the element with the locator //input[@placeholder ='Email Address'] and locator type xpath 
+10/20/2025 20:35:54 PM- login_Page- INFO: Element found with locator: password and locator type: name 
+10/20/2025 20:35:54 PM- login_Page- INFO: Data is passed to the element with the locator password and locator type name 
+10/20/2025 20:35:54 PM- login_Page- INFO: Element found with locator: login and locator type: id 
+10/20/2025 20:35:55 PM- login_Page- INFO: element is clicked with the locator login and locator type id 
+10/20/2025 20:35:58 PM- login_Page- INFO: element is present 
+10/20/2025 20:35:58 PM- login_Page- INFO: element is present 
+10/20/2025 20:35:58 PM- login_Page- INFO: Element found with locator: //a[text() = 'Sign In'] and locator type: xpath 
+10/20/2025 20:35:59 PM- login_Page- INFO: element is clicked with the locator //a[text() = 'Sign In'] and locator type xpath 
+10/20/2025 20:35:59 PM- login_Page- INFO: Element found with locator: //input[@placeholder ='Email Address'] and locator type: xpath 
+10/20/2025 20:35:59 PM- login_Page- INFO: Element found with locator: password and locator type: name 
+10/20/2025 20:35:59 PM- login_Page- INFO: Element found with locator: //input[@placeholder ='Email Address'] and locator type: xpath 
+10/20/2025 20:35:59 PM- login_Page- INFO: Data is passed to the element with the locator //input[@placeholder ='Email Address'] and locator type xpath 
+10/20/2025 20:35:59 PM- login_Page- INFO: Element found with locator: password and locator type: name 
+10/20/2025 20:35:59 PM- login_Page- INFO: Data is passed to the element with the locator password and locator type name 
+10/20/2025 20:35:59 PM- login_Page- INFO: Element found with locator: login and locator type: id 
+10/20/2025 20:35:59 PM- login_Page- INFO: element is clicked with the locator login and locator type id 
+10/20/2025 20:36:07 PM- login_Page- INFO: element is present 
